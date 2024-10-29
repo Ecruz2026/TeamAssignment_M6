@@ -1,5 +1,5 @@
-# syeda khunza fatima
-# emmanuel cruz
+# Syeda Khunza Fatima
+# Emmanuel Cruz
 # oct 29, 2024
 
 # generate the random number from 1-10
