@@ -1,8 +1,13 @@
-#syeda khunza fatima
-#oct 29, 2024
-import random
+# syeda khunza fatima
+# emmanuel cruz
+# oct 29, 2024
 
-def guessing_game():
-    random_number = random.randi(1,25)
-    print ("guess the number from 1-25")
-    
+# generate the random number from 1-10
+# prompt the user to enter a guess 
+# covert users input to integers
+# guess the higher number
+# if you guessed it right then you won
+
+
+
+
