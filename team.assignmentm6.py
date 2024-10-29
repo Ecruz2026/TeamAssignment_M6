@@ -9,5 +9,9 @@
 # if you guessed it right then you won
 
 
+import random
 
+def guess_the_number():
+    # Generate a random number between 1 and 25
+    random_number = random.randint(1, 25)
 
