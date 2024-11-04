@@ -19,7 +19,7 @@ def guess_the_number():
 print("Welcome to the Number Guessing Game!")
 print("I have generated a random number between 1 and 25. Try to guess it!")
 
-# Step 2: Loop to allow user to guess
+# Step 2: loop to allow user to guess
 while True:
     # Step 3: prompt the user to enter a guess
     user_input = input("Enter your guess: ")
