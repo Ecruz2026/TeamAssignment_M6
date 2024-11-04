@@ -3,5 +3,5 @@
 
 # 1-25 
 
-
-# This repository contains a simple Python implementation of a number-guessing game. The program generates a random integer between 1 and 25, and invites users to guess the number through a series of prompts. Users enter their guesses, and the program provides feedback on whether the guess is too high, too low, or correct. The game continues until the user successfully guesses the number.
+# Repository Intro
+# It's a basic implementation of a number-guessing game in Python. This generates a random number(integer) between 1 and 25 and invites the user to make guesses through a series of prompts. The user will input the guess, and it will tell them whether it's too high, too low, or correct. The game is over when the user has guessed the number.
